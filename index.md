@@ -1,5 +1,6 @@
 ## Welcome to my GitHub Pages
 
+<a href="cv.pdf">my CV file</a>
 You can download my [CV](//github.com/mojyou/mojyou.github.io/tree/master/resume/cv.pdf) directly.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
